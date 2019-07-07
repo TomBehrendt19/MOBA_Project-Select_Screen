@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: df16db0606732c54e81a882e3b52460b
+timeCreated: 1509461887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrel
+    100002: barrel1
+    100004: base
+    100006: box
+    100008: box1
+    100010: box2
+    100012: box3
+    100014: buildingbase
+    100016: buildingbase1
+    100018: concrete_wall
+    100020: //RootNode
+    100022: group1
+    100024: pole
+    100026: pole2
+    100028: pole4
+    100030: pole5
+    100032: walldamaged
+    100034: walldamaged1
+    400000: barrel
+    400002: barrel1
+    400004: base
+    400006: box
+    400008: box1
+    400010: box2
+    400012: box3
+    400014: buildingbase
+    400016: buildingbase1
+    400018: concrete_wall
+    400020: //RootNode
+    400022: group1
+    400024: pole
+    400026: pole2
+    400028: pole4
+    400030: pole5
+    400032: walldamaged
+    400034: walldamaged1
+    2300000: barrel
+    2300002: barrel1
+    2300004: base
+    2300006: box
+    2300008: box1
+    2300010: box2
+    2300012: box3
+    2300014: buildingbase
+    2300016: buildingbase1
+    2300018: concrete_wall
+    2300020: pole
+    2300022: pole2
+    2300024: pole4
+    2300026: pole5
+    2300028: walldamaged
+    2300030: walldamaged1
+    3300000: barrel
+    3300002: barrel1
+    3300004: base
+    3300006: box
+    3300008: box1
+    3300010: box2
+    3300012: box3
+    3300014: buildingbase
+    3300016: buildingbase1
+    3300018: concrete_wall
+    3300020: pole
+    3300022: pole2
+    3300024: pole4
+    3300026: pole5
+    3300028: walldamaged
+    3300030: walldamaged1
+    4300000: pole4
+    4300002: base
+    4300004: buildingbase1
+    4300006: buildingbase
+    4300008: pole2
+    4300010: barrel1
+    4300012: concrete_wall
+    4300014: box3
+    4300016: pole
+    4300018: box2
+    4300020: box1
+    4300022: box
+    4300024: barrel
+    4300026: walldamaged1
+    4300028: walldamaged
+    4300030: pole5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
